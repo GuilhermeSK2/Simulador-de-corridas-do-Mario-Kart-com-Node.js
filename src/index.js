@@ -110,7 +110,7 @@ async function playRaceEngine(character1, character2) {
             console.log(`${character2.NOME} marcou um ponto!`);
         }
 
-        console.log("-----------------------------------------");
+        console.log("------------------------------------------");
     }
 }
 
